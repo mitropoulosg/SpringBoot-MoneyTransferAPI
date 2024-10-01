@@ -71,9 +71,3 @@ This project implements a simple RESTful API using Spring Boot (Java) for handli
   "addOther": "optionalFieldsIfNecessary"
 }
 ```
-
-## General Notes
-
-- Mock external services and databases if needed.
-- Choose between Maven or Gradle for dependency management.
-- The API is assumed to be public; no security measures are required for this assignment.
